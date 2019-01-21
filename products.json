@@ -1,0 +1,73 @@
+
+[
+    {
+        "_id": "5c44b90e84d74208a839bce1",
+        "title": "Refined Cotton Sausages",
+        "price": 195,
+        "inventory_count": 4,
+        "__v": 0
+    },
+    {
+        "_id": "5c44b90e84d74208a839bce2",
+        "title": "Handcrafted Rubber Cheese",
+        "price": 953,
+        "inventory_count": 4,
+        "__v": 0
+    },
+    {
+        "_id": "5c44b90e84d74208a839bce3",
+        "title": "Handcrafted Plastic Salad",
+        "price": 992,
+        "inventory_count": 4,
+        "__v": 0
+    },
+    {
+        "_id": "5c44b90e84d74208a839bce4",
+        "title": "Sleek Steel Fish",
+        "price": 283,
+        "inventory_count": 4,
+        "__v": 0
+    },
+    {
+        "_id": "5c44b90e84d74208a839bce5",
+        "title": "Incredible Wooden Tuna",
+        "price": 805,
+        "inventory_count": 4,
+        "__v": 0
+    },
+    {
+        "_id": "5c44b90e84d74208a839bce6",
+        "title": "Handmade Steel Bike",
+        "price": 324,
+        "inventory_count": 4,
+        "__v": 0
+    },
+    {
+        "_id": "5c44b90e84d74208a839bce7",
+        "title": "Gorgeous Soft Chips",
+        "price": 710,
+        "inventory_count": 4,
+        "__v": 0
+    },
+    {
+        "_id": "5c44b90e84d74208a839bce8",
+        "title": "Sleek Fresh Hat",
+        "price": 393,
+        "inventory_count": 4,
+        "__v": 0
+    },
+    {
+        "_id": "5c44b90e84d74208a839bce9",
+        "title": "Small Wooden Keyboard",
+        "price": 984,
+        "inventory_count": 4,
+        "__v": 0
+    },
+    {
+        "_id": "5c44b90e84d74208a839bcea",
+        "title": "Handcrafted Rubber Shoes",
+        "price": 827,
+        "inventory_count": 4,
+        "__v": 0
+    }
+]
