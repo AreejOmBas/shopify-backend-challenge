@@ -13,15 +13,15 @@ The API is built using Nodejs and MongoDB. Therfore,nodejs and npm needs to be i
 ### Installing 
 
 After downloding the repository. In a Terminal, navigate to the root folder contiaing the code.
-run the following comman
+run the following command:
 
 ```
 npm init
 ```
 This will install all required dependencies to run the API.
 
-The Database is already populated with fake data. But if you want to use your on MongoDB please change the url in config/config.js
-  The Database can be populated by running the script populate-db.js.
+The Database is already populated with fake data. But if you want to use your own MongoDB server please change the url in config/config.js
+The Database can be populated by running the script populate-db.js.
 From the terminal, run the following command:
 
 ```
